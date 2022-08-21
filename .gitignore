@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/SparkSQL/output/
+/SparkSQL/output_homework/
+/ML_flow_practice/result/
+/SparkSQL/output/
